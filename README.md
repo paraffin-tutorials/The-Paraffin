@@ -14,8 +14,8 @@
 اگر از هاست سریع هروکو استفاده میکنید به یاد داشته باشید در این قسمت توکن را وارد کنید
 
 ```
-git clone https://github.com/Paraffin-Team/Paraffin-Toolsbox.git
-cd Paraffin-Toolsboxl
+git clone https://github.com/Paraffin-Team/The-Paraffin.git
+cd The-Paraffin
 npm install
 ```
 <br><br>
