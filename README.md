@@ -1,6 +1,6 @@
 [![](https://img.shields.io/discord/796767783354368030.svg?logo=discord&colorB=7289DA)](https://paraffin.site)
 
-![logo](https://cdn.discordapp.com/attachments/799297746217467944/803874910354276382/bandicam_2021-01-26_21-58-39-528.jpg)
+![logo](https://cdn.discordapp.com/attachments/799297746217467944/808615086872068206/bandicam_2021-02-08_23-56-12-294.jpg)
 
 # 🤖 The Paraffin (Discord Bot)
 > اولین و برترین بات اوکونومی ایران ساخته شده با کتابخانه دیسکورد جی اس [discordjs.guide](https://discordjs.guide)
