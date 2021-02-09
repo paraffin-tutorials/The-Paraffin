@@ -2,7 +2,7 @@
 
 ![logo](https://cdn.discordapp.com/attachments/799297746217467944/803874910354276382/bandicam_2021-01-26_21-58-39-528.jpg)
 
-# 🤖 Paraffin Toolsbox (Discord Bot)
+# 🤖 The Paraffin (Discord Bot)
 > اولین و برترین بات اوکونومی ایران ساخته شده با کتابخانه دیسکورد جی اس [discordjs.guide](https://discordjs.guide)
 
 ## 🔧 مورد نیاز ها
