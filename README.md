@@ -1,6 +1,6 @@
 [![](https://img.shields.io/discord/796767783354368030.svg?logo=discord&colorB=7289DA)](https://paraffin.site)
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
+[![Watch on GitHub][github-watch-badge]
+[![Star on GitHub][github-star-badge]
 
 ![logo](https://cdn.discordapp.com/attachments/799297746217467944/808615086872068206/bandicam_2021-02-08_23-56-12-294.jpg)
 
