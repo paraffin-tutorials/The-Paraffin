@@ -181,39 +181,6 @@ fs.readdir("./commands/Set/", (err, files) => {
 })
 
 
-bot.on("guildCreate", async guild => {
-  const webhookClient1 = new Discord.WebhookClient("780134121988685926", "LPz10x56Tnv9nwEaem3nc05lF2a7OmvTf17od1RJo5q8Gli87OW5SRxvyhvXFVhAGyHn");
-  const newembed1 = new Discord.MessageEmbed()
-  .setDescription(`**بات به یک سرور اضاف شد <:server:780138062541226005> **`)
-  .setAuthor(`${guild.name}`, `${guild.iconURL({ dynamic: true })}`) 
-  .addField("نام سرور <:tik:780138062578712646> ", `${guild.name}`)
- 
-  .addField("آیدی سرور <:tik:780138062578712646> ", `${guild.id}`)
-  .setColor("#f0e9e9")
-  webhookClient1.send({
-    username: `The Paraffin`,
-    avatarURL: `https://cdn.discordapp.com/avatars/728328227810050061/815b60f0ee00342b70ef7b1d85838215.png?size=1024`,
-    embeds: [newembed1]
-  });
-});
-
-bot.on("guildDelete", async guild => {
-    const webhookClient2 = new Discord.WebhookClient("780134121988685926", "LPz10x56Tnv9nwEaem3nc05lF2a7OmvTf17od1RJo5q8Gli87OW5SRxvyhvXFVhAGyHn");
-  const newembed2 = new Discord.MessageEmbed()
-  .setDescription(`**بات از یک سرور حذف شد <:serverblack:780138062822375475> **`)
-  .setAuthor(`${guild.name}`, `${guild.iconURL({ dynamic: true })}`) 
-  .addField("نام سرور <:tikblack:780138062700347392> ", `${guild.name}`)
-
-  .addField("آیدی سرور <:tikblack:780138062700347392> ", `${guild.id}`)
-  .setColor("#111111")
-  webhookClient2.send({
-    username: `The Paraffin`,
-    avatarURL: `https://cdn.discordapp.com/avatars/728328227810050061/815b60f0ee00342b70ef7b1d85838215.png?size=1024`,
-    embeds: [newembed2]
-});
-});
-
-
 bot.on('ready', () => {
     
     
